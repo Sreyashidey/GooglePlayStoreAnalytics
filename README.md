@@ -1,4 +1,4 @@
-## Project Title: Real-Time Google Play Store Data Analytics
+## Project Title: Real-Time Google Play Store Data Analytics (Datasets take from Kaggle)
 
 ## Introduction
 I have worked on on real-time analytics for Google Play Store data using Python as a part of this project. The tasks involved data visualization, analysis, and dashboard implementation within a restricted timeframe.
